@@ -1,0 +1,6 @@
+M:\IT-Projekt\Coding\ReVeBK\ReVeBK\bin\Debug\ReVeBK.dll
+M:\IT-Projekt\Coding\ReVeBK\ReVeBK\bin\Debug\ReVeBK.pdb
+M:\IT-Projekt\Coding\ReVeBK\ReVeBK\obj\Debug\ReVeBK.csproj.CoreCompileInputs.cache
+M:\IT-Projekt\Coding\ReVeBK\ReVeBK\obj\Debug\ReVeBK.dll
+M:\IT-Projekt\Coding\ReVeBK\ReVeBK\obj\Debug\ReVeBK.pdb
+M:\IT-Projekt\Coding\ReVeBK\ReVeBK\obj\Debug\ReVeBK.csprojAssemblyReference.cache
